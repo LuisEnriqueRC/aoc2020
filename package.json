@@ -1,0 +1,19 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "Preparing for Advent of code 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sex-rock/aoc2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sex-rock/aoc2020/issues"
+  },
+  "homepage": "https://github.com/sex-rock/aoc2020#readme"
+}
