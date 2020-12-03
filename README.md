@@ -1,2 +1,2 @@
 # aoc2020
-Preparing for Advent of code 2020
+Solutions for Advent of code 2020 in javascript Node.js
