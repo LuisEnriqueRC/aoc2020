@@ -3,7 +3,6 @@ const util = require('../util');
 
 let fname = 'input1.txt';
 let file = util.readFile(__dirname+'\\'+fname);
-let faltantes = [];
 if (typeof file === 'undefined') {
     console.log('No se puede leer el archivo');
 } else {
